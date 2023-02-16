@@ -10,7 +10,7 @@
 ## Download
 
 ```sh
-https://github.com/eucesar/HTML-CSS-responsiveness-with-mobile-first.git
+https://github.com/eucesar/Practicing-CSS-Grid-and-Flexbox.git
 ```
 
 ## Cesar
