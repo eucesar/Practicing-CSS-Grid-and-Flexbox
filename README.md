@@ -4,7 +4,7 @@
   <img align="center" alt="Cesar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </p>
 
-> 🌱💻 Practicing CSS: Grid and Flexbox. I created the site using the Alura course.
+> 🌱 Practicing CSS: Grid and Flexbox. I created the site using the Alura course.
 
 
 ## Download
